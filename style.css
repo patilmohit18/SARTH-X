@@ -1,0 +1,10 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#output{
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid;
+    min-height: 50px;
+}
